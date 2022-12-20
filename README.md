@@ -1,2 +1,3 @@
 # Repositório do Desafio de Projeto sobre GIT/GITHUB da Dio
 Desafio de projeto Dio
+Neste primeiro projeto bem simples, porém acredito que será o primeiro passo para minha carreria, e quando pensar em desistir olharei meus projetos e ver desde o ínicio que no caso é aqui, e terei força vendo a evolução. Aprendi tanto na teoria, quanto na prática. Foi primeiro contato com a plataforma GitHub, e sei que foi o primeiro passo dado para a carreria de desenvolvedor, pois sei que aqui será a janela de minha vida, para o mercado dá tecnologia. Estou muito agradecido a Dio. E ansioso para o meu crescimento.
